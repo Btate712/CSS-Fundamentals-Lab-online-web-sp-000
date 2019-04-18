@@ -33,3 +33,8 @@ figcaption {
   margin: 0 auto;
   float: none;
 }
+
+#details div {
+  float: left;
+  max-width: 25%;
+}
